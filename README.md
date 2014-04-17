@@ -1,4 +1,4 @@
-Bacharel em Sistemas de Informação - 5ª Fase
+Bacharel em Sistemas de Informação
 
 
 NLP
